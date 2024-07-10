@@ -1,0 +1,13 @@
+
+{
+  "name": "nodejs-cicd-app",
+  "version": "1.0.0",
+  "description": "A simple Node.js app for CI/CD example",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "http": "^0.0.1-security"
+  }
+}
